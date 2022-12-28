@@ -7,4 +7,4 @@ def ceasar_ciph(string, shift_factor)
     new_string
 end
 
-puts ceasar_ciph("zula Smierdzi Groszkiem", 1)
+puts ceasar_ciph("TesTst TesSTstt Tsts", 1)
